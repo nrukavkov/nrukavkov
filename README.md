@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nrukavkov
-- 🌱 I’m currently leading in DevOps Team
+- 👋 Hi, I’m Nikita Rukavkov
+- 🌱 I’m currently leading in DevOps Team in big tech company
 - 📫 Telegram: @rukavkov
 - 📫 Telegram Channel: [@rukavkov](https://t.me/devopsbrain)
 <!---
